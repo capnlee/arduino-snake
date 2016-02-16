@@ -366,6 +366,7 @@ void setUpdateRate() {
 
 void generateScore() {
   scoreCycleNumber = 0;  
+  scoreLength = 0;
   int char1 = 0;
   int char2 = 0;
   int char3 = 0;
